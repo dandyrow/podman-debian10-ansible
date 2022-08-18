@@ -13,7 +13,7 @@ Latest tag has been tested to ensure it builds, and has working Ansible and Syst
 
 ## How to Build
 
-This is image is built automatically any time there is a new push to the master branch and on a schedule (to catch updates in the base ubuntu image) and published to the GitHub Container Registry. However if you want to build from source yourself the steps are as follows:
+This is image is built automatically any time there is a new push to the master branch and on a schedule (to catch updates in the base image) and published to the GitHub Container Registry. However if you want to build from source yourself the steps are as follows:
 
 1. Install Podman
 2. Clone the repo
